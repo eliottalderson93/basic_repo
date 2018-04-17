@@ -1,0 +1,7 @@
+First I clicked around on Github to make the repository
+Then I used bash to mkdir basic_repo, cd basic_repo touch .txt, touch .html, touch .css
+Then I edited the files.
+Then I did git add ., git commit -m "initial", git remote add origin <url of basic_repo>, git push -u origin master.
+Then I checked github to see the changes.
+Then I started editing this document among other second changes.
+Then I uploaded the file to github and linked it.
